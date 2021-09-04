@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Manmansui
-- 👀 I’m interested in freelance
+- 😎 I’m interested in freelance
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on artificial inteligence
 - 📫 How to reach me (firmanridwan12309@gmail.com)
 
 <!---
